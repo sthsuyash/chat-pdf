@@ -1,7 +1,6 @@
 {
   "name": "doculume-landing",
   "version": "1.0.0",
-  "description": "DocuLume landing page – marketing and documentation site for the enterprise RAG platform",
   "private": true,
   "scripts": {
     "dev": "next dev -p 4002",
